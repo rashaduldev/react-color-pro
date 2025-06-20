@@ -1,6 +1,6 @@
 {
   "name": "react-color-pro",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A lightweight, framework-agnostic color picker component for React,Next.js or any React-based project, built with TypeScript, also any raw projects",
   "main": "dist/react-color-pro.umd.js",
   "module": "dist/react-color-pro.es.js",
@@ -15,7 +15,19 @@
     "color-picker",
     "component",
     "typescript",
-    "tailwindcss"
+    "tailwindcss",
+    "color-manipulation",
+    "modular",
+    "framework-agnostic",
+    "lightweight",
+    "react-color-pro",
+    "react-color-picker",
+    "react-component",
+    "react-color",
+    "react-color-picker-component",
+    "react-color-picker-component",
+    "react-color-picker-component-library",
+    "react-color-picker-library"
   ],
   "author": "rashaduldev",
   "license": "MIT",
